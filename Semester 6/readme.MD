@@ -1,6 +1,6 @@
 Lab Courses -- 
 
-1.Microcontrollers and Applications - MCA
+1.Microcontrollers and Applications - MCA\n
 2.Audio Processing - AP
 3.Image Processing and Machine Vision - IPML
 4.Antenna and Radio Wave Propogation - AWP
