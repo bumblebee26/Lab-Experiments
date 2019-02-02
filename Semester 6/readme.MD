@@ -1,4 +1,4 @@
-# **Lab Courses** -- 
+# **Lab Courses**                                                                                                               
 
 ## 1. Microcontrollers and Applications - MCA
 ## 2. Audio Processing - AP
