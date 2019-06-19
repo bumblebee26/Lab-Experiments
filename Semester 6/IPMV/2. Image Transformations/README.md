@@ -16,3 +16,4 @@ The examples of Point processing are--
 4.  Gray Level Slicing without Background.
 5.  Log Transform.
 6.  Power Law Transform.
+  
