@@ -1,7 +1,11 @@
 # In this experiment, we have performed Image Enhancement in Spatial Domain.
 ## Image enhancement in Spatial Domain is divided into two parts--
 
-### 1. Point Processing.       2. Neighbourhood Processing.
+### 1. Point Processing.        
+### 2. Neighbourhood Processing.
+
+
+
 
 In this experiment we performed Point Processing on sample images.
 The examples of Point processing are--
