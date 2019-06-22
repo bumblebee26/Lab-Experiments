@@ -1,6 +1,6 @@
 # In this experiment, we have performed Morphological Operations on the images.
 
-The Morphologica operations included are --
+The Morphological operations included are --
 
 1.  Dialation.  (Expands the image object)
 2.  Erosion.    (Shrinks the image object)
