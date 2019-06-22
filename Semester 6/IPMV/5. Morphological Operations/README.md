@@ -7,3 +7,4 @@ The Morphological operations included are --
 3.  Opening.    (Erosion followed by Dialation)
 4.  Closing.    (Dialtion followed by Erosion)
 
+  
