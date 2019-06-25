@@ -8,4 +8,4 @@
   - The centroids of the K clusters, which can be used to label new data.
   - Labels for the training data (each data point is assigned to a single cluster).
   
-  ![K-Means Clustering](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjTvs6Es4XjAhW6_XMBHbbNCskQjRx6BAgBEAU&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FFlowchart-of-k-means-clustering-algorithm_fig1_318341309&psig=AOvVaw2EB2ZMtcPsKnQeLawRkXXT&ust=1561578381366779)
+  ![K-Means Clustering](https://www.researchgate.net/profile/Alhadi_Bustamam/publication/318341309/figure/fig1/AS:514967923159041@1499789328422/Flowchart-of-k-means-clustering-algorithm.png)
