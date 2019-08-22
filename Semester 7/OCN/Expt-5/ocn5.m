@@ -23,7 +23,7 @@ hold all;
 plot(lambda,Dt);
 grid on;
 
-
+legend('Material','Waveguide','Total');
 
 
 
