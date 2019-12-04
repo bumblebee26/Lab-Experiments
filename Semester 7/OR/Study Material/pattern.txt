@@ -1,0 +1,6 @@
+Syllabus for TT1 OR- ILE
+Q1 LPP - Formùlation (5)
+Q2 LPP - solve using simplex.  (5)
+Q3 LPP - solve using artificial variable  (6)
+Q4 Duality   (4)
+Internal choice for Q2 and Q3 only.
