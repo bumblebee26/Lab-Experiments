@@ -14,3 +14,11 @@ for k=1:20
     R=toeplitz(r(1:p));
     a(:,k)=[1;-inv(R)*r(2:p+1)];
 end
+
+subplot(1,3,1)
+plot(r)
+subplot(1,3,2)
+plot(R)
+subplot(1,3,3)
+plot(a)
+
